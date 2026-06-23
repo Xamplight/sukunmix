@@ -1,2 +1,2 @@
-# sukunmix.
+# sukunmix
 SukunMix Support Page.
